@@ -1,0 +1,14 @@
+:root {
+    --backgroundColor: rgb(59, 77, 117);
+    --gap: 5px;
+    
+}
+
+
+
+
+
+h1 {
+    color: var(--backgroundColor)
+    
+}
