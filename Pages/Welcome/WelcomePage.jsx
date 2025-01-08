@@ -6,7 +6,7 @@ import "./welcome.css"
 const WelcomePage = () => {
   return (
     <div>
-      Welcome Page
+      Welcome Page this is the
     </div>
   )
 }
